@@ -1,0 +1,35 @@
+# Compiled executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# VS Code workspace settings (keep configuration but hide workspace)
+.vscode/*.code-workspace
+
+# Test output files
+test_output.*
+test_*.txt
+sample_data.txt
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build directories
+build/
+bin/
+obj/
+
+# Debug files
+*.dSYM/
+*.pdb
